@@ -21,7 +21,7 @@ Typescript + React
 GitHub, Jenkins
 
 ### Server
-MS Azure
+MS Azure ; UNIX Root Server (MySQL)
 
 ## Datenbank(design):
 Betty
