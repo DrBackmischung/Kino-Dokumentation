@@ -30,7 +30,10 @@ Betty
 Tomke, Mathis
 
 ## Frontend:
+### Main page:
 Anja, Marsl, Nat
+
+### Admin page:
 
 ## CI/CD:
 Leo
