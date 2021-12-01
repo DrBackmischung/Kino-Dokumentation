@@ -9,6 +9,11 @@ https://github.com/DrBackmischung/Kino-Dokumentation
 ### JIRA
 https://dhbw-ma-wwi2020seb.atlassian.net/jira/software/c/projects/KINO/boards/1
 ### Azure
+Backend-Prod: https://wi2020seb-cinema-api.azurewebsites.net
+Backend-Dev: https://wi2020seb-cinema-api-dev.azurewebsites.net
+Frontend-Prod: https://wi2020seb-cinema.azurewebsites.net
+Frontend-Dev: https://wi2020seb-cinema.azurewebsites-dev.net
+
 ## Technologien:
 
 ### Backend
