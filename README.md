@@ -1,4 +1,6 @@
 # Kino-Dokumentation
+## Lizenz
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ## Link-Sammlung
 ### GitHub Frontend
 https://github.com/DrBackmischung/Kino-Frontend
@@ -10,8 +12,11 @@ https://github.com/DrBackmischung/Kino-Dokumentation
 https://dhbw-ma-wwi2020seb.atlassian.net/jira/software/c/projects/KINO/boards/1
 ### Azure
 Backend-Prod: https://wi2020seb-cinema-api.azurewebsites.net
+
 Backend-Dev: https://wi2020seb-cinema-api-dev.azurewebsites.net
+
 Frontend-Prod: https://wi2020seb-cinema.azurewebsites.net
+
 Frontend-Dev: https://wi2020seb-cinema.azurewebsites-dev.net
 
 ## Technologien:
