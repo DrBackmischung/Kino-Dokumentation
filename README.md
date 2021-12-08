@@ -33,23 +33,24 @@ GitHub, Jenkins
 ### Server
 MS Azure ; UNIX Root Server (MySQL)
 
-## Datenbank(design):
-Betty
+## Verantwortliche Personen:
 
-## Backend:
-Tomke, Mathis
+Datenbank & Datenbankdesign: Babett Müller
 
-## Frontend:
-### Main page:
-Anja, Marsl, Nat
+Backendentwicklung: Jost-Tomke Müller, Mathis Neunzig
 
-### Admin page:
+Code Testing & Code Coverage: Mathis Neunzig
 
-## CI/CD:
-Leo
+Datenbankschnittstelle & Datenbankhosting: Jost-Tomke Müller
+
+Frontententwicklung: Marcel Robert Mildenberger, Anna Khristolyubova, Nathalie Möck, Babett Müller
+
+Integrationstests:
+
+CI / CD & MS Azure: Frederick Leo Orschied
 
 ## Project Owner:
-Nathalie
+Nathalie Möck
 
 ## Scrum Master:
-Betty
+Babett Müller
