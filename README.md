@@ -17,7 +17,7 @@ Backend-Dev: https://wi2020seb-cinema-api-dev.azurewebsites.net
 
 Frontend-Prod: https://wi2020seb-cinema.azurewebsites.net
 
-Frontend-Dev: https://wi2020seb-cinema.azurewebsites-dev.net
+Frontend-Dev: https://wi2020seb-cinema-dev.azurewebsites.net
 
 ## Technologien:
 
