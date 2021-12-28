@@ -6,6 +6,8 @@
 https://github.com/DrBackmischung/Kino-Frontend
 ### GitHub Backend
 https://github.com/DrBackmischung/Kino-Backend
+### GitHub TheoTicket
+https://github.com/DrBackmischung/Kino-TheoTicket
 ### GitHub Dokumentation
 https://github.com/DrBackmischung/Kino-Dokumentation
 ### JIRA
