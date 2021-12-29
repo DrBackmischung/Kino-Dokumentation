@@ -39,6 +39,15 @@ Datenbank: UNIX Root Server (MySQL)
 
 Test-DB: H2 in-Memory-DB
 
+### Chatbot Service
+Java Spring Boot + REST + H2 Cache
+
+## Project Owner:
+Nathalie Möck
+
+## Scrum Master:
+Babett Müller
+
 ## Verantwortliche Personen:
 
 Datenbank & Datenbankdesign: Babett Müller
@@ -51,14 +60,10 @@ Datenbankschnittstelle & Datenbankhosting: Jost-Tomke Müller
 
 Frontententwicklung: Marcel Robert Mildenberger, Anna Khristolyubova, Nathalie Möck, Babett Müller
 
+Modellierung: Frederick Leo Orschied
+
 Integrationstests:
 
 CI / CD & MS Azure: Frederick Leo Orschied
 
-TheoTicket:
-
-## Project Owner:
-Nathalie Möck
-
-## Scrum Master:
-Babett Müller
+TheoTicket (Chatbot): Frederick Leo Orschied, Mathis Neunzig, Luis Maier (extern, Gruppe 4)
