@@ -54,7 +54,7 @@ Datenbank & Datenbankdesign: Babett Müller
 
 Backendentwicklung: Jost-Tomke Müller, Mathis Neunzig
 
-Code Testing & Code Coverage: Mathis Neunzig
+Backend Code Testing & Code Coverage: Mathis Neunzig
 
 Datenbankschnittstelle & Datenbankhosting: Jost-Tomke Müller
 
@@ -62,7 +62,7 @@ Frontententwicklung: Marcel Robert Mildenberger, Anna Khristolyubova, Nathalie M
 
 Modellierung: Frederick Leo Orschied
 
-Integrationstests:
+Frontend Integrationstests:
 
 CI / CD & MS Azure: Frederick Leo Orschied
 
