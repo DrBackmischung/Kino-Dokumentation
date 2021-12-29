@@ -30,10 +30,14 @@ Java Spring Boot + REST
 Typescript + React
 
 ### CI/CD
-GitHub, Jenkins
+GitHub Workflows / Actions
 
 ### Server
-MS Azure ; UNIX Root Server (MySQL)
+Web: MS Azure
+
+Datenbank: UNIX Root Server (MySQL)
+
+Test-DB: H2 in-Memory-DB
 
 ## Verantwortliche Personen:
 
@@ -50,6 +54,8 @@ Frontententwicklung: Marcel Robert Mildenberger, Anna Khristolyubova, Nathalie M
 Integrationstests:
 
 CI / CD & MS Azure: Frederick Leo Orschied
+
+TheoTicket:
 
 ## Project Owner:
 Nathalie Möck
