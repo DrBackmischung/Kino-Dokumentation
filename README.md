@@ -10,6 +10,8 @@ https://github.com/DrBackmischung/Kino-Backend
 https://github.com/DrBackmischung/Kino-TheoTicket
 ### GitHub Dokumentation
 https://github.com/DrBackmischung/Kino-Dokumentation
+### GitHub Email-Templates
+https://github.com/DrBackmischung/Kino-Email
 ### JIRA
 https://dhbw-ma-wwi2020seb.atlassian.net/jira/software/c/projects/KINO/boards/1
 ### Azure
@@ -17,9 +19,7 @@ Backend-Prod: https://wi2020seb-cinema-api.azurewebsites.net
 
 Backend-Dev: https://wi2020seb-cinema-api-dev.azurewebsites.net
 
-Frontend-Prod: https://wi2020seb-cinema.azurewebsites.net
-
-Frontend-Dev: https://wi2020seb-cinema-dev.azurewebsites.net
+Frontend-Dev: https://kino-frontend.vercel.app/
 
 ## Technologien:
 
@@ -33,7 +33,9 @@ Typescript + React
 GitHub Workflows / Actions
 
 ### Server
-Web: MS Azure
+Backend-Deployment: MS Azure
+
+Frontend-Deployment: Vercel
 
 Datenbank: UNIX Root Server (MySQL)
 
@@ -60,10 +62,12 @@ Datenbankschnittstelle & Datenbankhosting: Jost-Tomke Müller
 
 Frontententwicklung: Marcel Robert Mildenberger, Anna Khristolyubova, Nathalie Möck, Babett Müller
 
+Design:
+
 Modellierung: Frederick Leo Orschied
 
 Frontend Integrationstests:
 
 CI / CD & MS Azure: Frederick Leo Orschied
 
-TheoTicket (Chatbot): Frederick Leo Orschied, Mathis Neunzig, Luis Maier (extern, Gruppe 4)
+TheoTicket (Chatbot): Frederick Leo Orschied, Mathis Neunzig
